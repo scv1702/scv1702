@@ -9,9 +9,11 @@ Hi! I'm a student developer interested in security, backend development and comp
 - Vice President of [KERT](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020 )
 - President of [KERT](https://github.com/KERT-core) (Mar 2021 ~ Present)
 
+
 🌱 **I’m currently learning ...**
 - Security
 - Backend Development
+
 
 💻 **I'm programming with ...**
 
@@ -25,10 +27,11 @@ Hi! I'm a student developer interested in security, backend development and comp
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white)
 
+
 🤔 **I'm interested in ...**
 - Machine Learning / Deep Learning
 - Computer Vision
 
+
 📫 **How to reach me: ...**
 - via email scv1702@gmail.com
-
