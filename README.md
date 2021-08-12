@@ -12,9 +12,8 @@ Hi! I'm a student developer interested in security, backend development and comp
 🌱 **I’m currently learning ...**
 - Security
 - Backend Development
-- Computer Vision
 
-💻 **I'm programming with ...**<br>
+💻 **I'm programming with ...**
 
 ![React](https://img.shields.io/badge/React-61DAF8?&style=flat&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
@@ -25,6 +24,10 @@ Hi! I'm a student developer interested in security, backend development and comp
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white)
+
+🤔 **I'm interested in ...**
+- Machine Learning / Deep Learning
+- Computer Vision
 
 📫 **How to reach me: ...**
 - via email scv1702@gmail.com
