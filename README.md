@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Shin chan-gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scv1702)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scv1702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **scv1702/scv1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
