@@ -16,10 +16,10 @@ Hi! I'm a student developer interested in security, backend development and comp
 
 💻 **I'm programming with ...**<br>
 
-![React]("https://img.shields.io/badge/React-61DAF8?&style=flat&logo=React&logoColor=white")
-![Node.js]("https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white")
-![Express]("https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white")
-![MongoDB]("https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white")
+![React](https://img.shields.io/badge/React-61DAF8?&style=flat&logo=React&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white)
 
 📫 **How to reach me: ...**
 - via email scv1702@gmail.com
