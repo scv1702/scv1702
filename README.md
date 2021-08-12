@@ -14,8 +14,8 @@ Hi! I'm a student developer interested in security, backend development and comp
 - Backend Development
 - Computer Vision
 
-💻 **I'm programming with ...**
-<img alt="React" src="https://img.shields.io/badge/React-61DAF8?&style=flat&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/>
+💻 **I'm programming with ...**<br>
+<img alt="React" src="https://img.shields.io/badge/React-61DAF8?&style=flat&logo=React&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/> <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/>
 
 📫 **How to reach me: ...**
 - via email scv1702@gmail.com
