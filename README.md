@@ -6,8 +6,8 @@ Hi! I'm a student developer interested in security, backend development and comp
 [![Shin chan-gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scv1702)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scv1702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 **I’m currently working on ...**
-- Vice President of ![KERT](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020 )
-- President of ![KERT](https://github.com/KERT-core) (Mar 2021 ~ Present)
+- Vice President of [KERT](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020 )
+- President of [KERT](https://github.com/KERT-core) (Mar 2021 ~ Present)
 
 🌱 **I’m currently learning ...**
 - Security
