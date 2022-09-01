@@ -6,8 +6,9 @@ Hi! I'm a student developer interested in security, backend development and comp
 [![Shin chan-gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scv1702)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scv1702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 **I’m currently working on ...**
-- Vice President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020 )
-- President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Mar 2021 ~ Present)
+- Vice President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020)
+- President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Mar 2021 ~ Mar 2022)
+- Undergraduate researcher at [Kyungpook National University Image Processing and Analysis Lab](https://sites.google.com/view/ipalab) (Apr 2022 ~ Aug 2022)
 
 
 🌱 **I’m currently learning ...**
